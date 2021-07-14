@@ -2,8 +2,7 @@
 <html lang="en">
 <body>
     <main>
-      <div style="text-align: justify;">
-        
+         <div style="text-align: justify;">
                 A Spirit Story
         </div>
     </main>
