@@ -2,9 +2,8 @@
 <html lang="en">
 <body>
     <main>
-         <div style="text-align: justify;">
-                A Spirit Story
-        </div>
+        <h1>A Spirit Story</h1>
+        <hr>
     </main>
     
 </body>
